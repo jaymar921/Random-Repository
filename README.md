@@ -7,4 +7,4 @@ For Notes
 - [Vite](https://vitejs.dev/) - Instant Server Start.
 - [Microsoft Azure](https://portal.azure.com/#home) - Deploying .NET applications
 - [Linode](https://www.linode.com/) - VPS hosting
-- [Magic Bell](magicbell.com) - The Real-Time Notification Inbox
+- [Magic Bell](https://www.magicbell.com/) - The Real-Time Notification Inbox
