@@ -8,3 +8,4 @@ For Notes
 - [Microsoft Azure](https://portal.azure.com/#home) - Deploying .NET applications
 - [Linode](https://www.linode.com/) - VPS hosting
 - [Magic Bell](https://www.magicbell.com/) - The Real-Time Notification Inbox 
+- [Jira](https://www.atlassian.com/software/jira) - a proprietary issue tracking product that allows bug tracking and agile project management.
