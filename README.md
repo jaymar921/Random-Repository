@@ -12,4 +12,5 @@ For Notes
 - [Notion](https://www.notion.so/) - is a freemium productivity and note-taking web application developed by Notion Labs Inc.
 - [Method Draw Vector Editor](https://editor.method.ac/) - Method Draw is an open source SVG editor for the web
 - [NuGet](https://www.nuget.org/) - The NuGet Gallery is the central package repository used by all package authors and consumers.
-- [Flaticon](https://www.flaticon.com/) - Download Free Icons and Stickers for your projects. 
+- [Flaticon](https://www.flaticon.com/) - Download Free Icons and Stickers for your projects.
+- [Quotes API](https://api-ninjas.com/api/quotes) - The Quotes API provides a nearly endless amount of quotes from famous people throughout history.
