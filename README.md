@@ -10,3 +10,4 @@ For Notes
 - [Magic Bell](https://www.magicbell.com/) - The Real-Time Notification Inbox 
 - [Jira](https://www.atlassian.com/software/jira) - a proprietary issue tracking product that allows bug tracking and agile project management.
 - [Notion](https://www.notion.so/) - is a freemium productivity and note-taking web application developed by Notion Labs Inc.
+- [Method Draw Vector Editor](https://editor.method.ac/) - Method Draw is an open source SVG editor for the web
