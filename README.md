@@ -15,3 +15,4 @@ For Notes
 - [Flaticon](https://www.flaticon.com/) - Download Free Icons and Stickers for your projects.
 - [Quotes API](https://api-ninjas.com/api/quotes) - The Quotes API provides a nearly endless amount of quotes from famous people throughout history.
 - [Render](https://render.com/) - Free web hosting for NodeJS projects
+- [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) - Docker can build images automatically by reading the instructions from a Dockerfile
