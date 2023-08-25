@@ -16,4 +16,5 @@ For Notes
 - [Quotes API](https://api-ninjas.com/api/quotes) - The Quotes API provides a nearly endless amount of quotes from famous people throughout history.
 - [Render](https://render.com/) - Free web hosting for NodeJS projects
 - [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) - Docker can build images automatically by reading the instructions from a Dockerfile 
-- [Stripe Doc](https://stripe.com/docs) - Stripe is a payment gateway that allows businesses to accept payments online. 
+- [Stripe Doc](https://stripe.com/docs) - Stripe is a payment gateway that allows businesses to accept payments online.
+- [Storyset](https://www.freepik.com/author/stories) - Discover the best Vectors, Photos & PSD files from Storyset - Free Graphic Resources for personal and commercial use
