@@ -18,4 +18,4 @@ For Notes
 - [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/) - Docker can build images automatically by reading the instructions from a Dockerfile 
 - [Stripe Doc](https://stripe.com/docs) - Stripe is a payment gateway that allows businesses to accept payments online.
 - [Storyset](https://www.freepik.com/author/stories) - Discover the best Vectors, Photos & PSD files from Storyset - Free Graphic Resources for personal and commercial use
-- [Design Resources](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more. 
+- [Design Resources](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more.  
