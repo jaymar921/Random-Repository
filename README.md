@@ -21,5 +21,5 @@ For Notes
 - [Design Resources](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more.
 - [Cloudinary](https://cloudinary.com/) - is a cloud-based image and video management platform that provides a comprehensive solution for managing all your media assets in the cloud.
 - [RabbitMq](https://www.rabbitmq.com/) - RabbitMQ is lightweight and easy to deploy on premises and in the cloud. It supports multiple messaging protocols and streaming.
-- [SendGrid](https://sendgrid.com/) - Email Delivery Service 
+- [SendGrid](https://sendgrid.com/) - Email Delivery Service  
  
