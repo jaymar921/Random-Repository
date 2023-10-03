@@ -23,4 +23,5 @@ For Notes
 - [RabbitMq](https://www.rabbitmq.com/) - RabbitMQ is lightweight and easy to deploy on premises and in the cloud. It supports multiple messaging protocols and streaming.  
 - [SendGrid](https://sendgrid.com/) - Email Delivery Service
 - [Formik](https://formik.org/) - Formik is the world's most popular open source form library for React and React Native.
-- [Yup](https://www.npmjs.com/package/yup) - Yup is a schema builder for runtime value parsing and validation. 
+- [Yup](https://www.npmjs.com/package/yup) - Yup is a schema builder for runtime value parsing and validation.
+- [More Icons](https://thenounproject.com/icons/) - The World’s Most Diverse and Extensive Icon Collection
