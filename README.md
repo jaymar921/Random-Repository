@@ -24,6 +24,6 @@ For Notes
 - [SendGrid](https://sendgrid.com/) - Email Delivery Service
 - [Formik](https://formik.org/) - Formik is the world's most popular open source form library for React and React Native.
 - [Yup](https://www.npmjs.com/package/yup) - Yup is a schema builder for runtime value parsing and validation. 
-- [More Icons](https://thenounproject.com/icons/) - The World’s Most Diverse and Extensive Icon Collection 
+- [More Icons](https://thenounproject.com/icons/) - The World’s Most Diverse and Extensive Icon Collection  
 - [Convert HTML Table to JSON](https://tableconvert.com/html-to-json) - This converter is used to convert HTML Table into JSON Array. Also API supported.    
  
