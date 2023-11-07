@@ -1,5 +1,5 @@
 # Private-Repository 
-For Notes  
+For Notes 
 
 - [uiverse](https://uiverse.io/) - Copy/Paste codes 
 - [SmarterASP.net](https://www.smarterasp.net/) - ASP.NET Hosting by SmarterASP.net. 
