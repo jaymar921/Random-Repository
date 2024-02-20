@@ -28,3 +28,4 @@ For Notes
 - [Convert HTML Table to JSON](https://tableconvert.com/html-to-json) - This converter is used to convert HTML Table into JSON Array. Also API supported.
 - [Mantine](https://mantine.dev/) - A fully featured React components library
 - [Lordicon](https://lordicon.com/docs/web) - Free animated icons 
+- [Mudblazor](https://mudblazor.com/) - The Blazor Component Library
