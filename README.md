@@ -29,3 +29,4 @@ For Notes
 - [Mantine](https://mantine.dev/) - A fully featured React components library
 - [Lordicon](https://lordicon.com/docs/web) - Free animated icons 
 - [Mudblazor](https://mudblazor.com/) - The Blazor Component Library
+- [GLTF -> REACT COMPONENT](https://gltf.pmnd.rs/) - Convert GLB/GLTF to react component
