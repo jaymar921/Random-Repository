@@ -1,4 +1,4 @@
-# Private-Repository 
+# Random-Repository 
 For Notes
 
 - [uiverse](https://uiverse.io/) - Copy/Paste codes  
